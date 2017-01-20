@@ -1,0 +1,7 @@
+# Files to ignore
+*.tmp
+bin/
+build/
+*.class
+*.swp
+JOKES
